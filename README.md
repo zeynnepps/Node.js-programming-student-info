@@ -51,3 +51,21 @@ If the specified student ID exists, the server will respond with JSON data conta
   ```
 
 The server will start listening for requests on port 8000 by default.
+
+## Images of work
+
+ID:11111
+
+<img width="481" alt="Screenshot 2024-05-29 at 1 39 23 PM" src="https://github.com/zeynnepps/Node.js-programming-student-info/assets/49025266/262e88e0-8ef9-4eb8-9093-7e592bccb25e">
+
+ID:22222
+
+<img width="491" alt="Screenshot 2024-05-29 at 1 39 54 PM" src="https://github.com/zeynnepps/Node.js-programming-student-info/assets/49025266/69779a51-084a-4fa1-bbc9-a36933e35d2e">
+
+ID:33333
+
+<img width="491" alt="Screenshot 2024-05-29 at 1 40 16 PM" src="https://github.com/zeynnepps/Node.js-programming-student-info/assets/49025266/b7dfd361-658b-4676-9fba-49940a16ff04">
+
+ID:44444 (NOT FOUND)
+
+<img width="493" alt="Screenshot 2024-05-29 at 1 40 36 PM" src="https://github.com/zeynnepps/Node.js-programming-student-info/assets/49025266/aaf9fe61-aeb6-465c-adcf-73b043404d99">
