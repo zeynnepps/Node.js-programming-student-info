@@ -20,15 +20,15 @@ Replace `<student_id>` with the ID of the student you want to retrieve data for.
 
 - To get data for Bruce Lee (ID: 11111):
 
-http://<your-server-ip>:8000/api/score?student_id=11111
+http://your-server-ip:8000/api/score?student_id=11111
 
 - To get data for Jackie Chen (ID: 22222):
 
-http://<your-server-ip>:8000/api/score?student_id=22222
+http://your-server-ip:8000/api/score?student_id=22222
 
 - To get data for Jet Li (ID: 33333):
 
-http://<your-server-ip>:8000/api/score?student_id=33333
+http://your-server-ip:8000/api/score?student_id=33333
 
 If the specified student ID exists, the server will respond with JSON data containing the student's information. If the ID is not found or the request is invalid, it will return a an error message that 'Studetn not found'.
 
